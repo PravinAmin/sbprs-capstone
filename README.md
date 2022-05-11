@@ -21,7 +21,7 @@ In order to do this, you planned to build a sentiment-based product recommendati
 
 * github link: https://github.com/PravinAmin/sbprs-capstone
 
-* Heroku (Application is Live): https://senti-product-recommendation.herokuapp.com/
+* Heroku (Application is Live): https://ebuss-sbprs-app.herokuapp.com/
 
 ### Built with
 
